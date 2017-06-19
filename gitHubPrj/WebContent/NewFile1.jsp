@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>테스트</h2>
-	<p>추가된 텍스트</p>
+
 </body>
 </html>
